@@ -1,0 +1,42 @@
+*¨{
+    color: #0d0d0d;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+
+
+    margin: unset;
+    padding: unset;
+
+    outline: unset;
+    border: unset;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+  
+}
+
+a{
+    text-decoration: none;
+    color: #0d0d0d;
+
+}
+
+
+
+.menu-superior{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    .menu-superior li
+    }
+
+
+
+
+
+
+
+
+
