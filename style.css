@@ -28,15 +28,41 @@ body{
     
 }
 
-.jumbotron1{
-    height: 597px;
-    background-image: url(/assets/ilustration.png);
-    fill: #4D4D4D;
-    margin: unset;
-    padding: unset;
-    outline: unset;
-    border: unset;
-    box-sizing: border-box;
+.jumbotron-publicidad
+    height: 596px;
+    width: 1157px;
+    background-color: #4D4D4D
+    
+    #titulo-publicidad{
+        font-size: 2em; 
+        color grey: #ffffff;
+        text-align: center;
+
+    }
+
+    .mi-button{
+        background-color: #999999;
+        color: #4D4D4D;
+        border-radius: 50px;
+        padding: 10px 183px;
+        font-size: 25px;
+        font-weight: 300;
+        cursor: pointer;
+
+    }
+
+    .mi-bottun:hover{
+        background-color: #367c39; /* Cambia el color de fondo al pasar el mouse */
+        color: #ffffff; /* Cambia el color del texto al pasar el mouse */
+
+    }
+    .navbar__imagen-publicitaria{
+        font-size: 64px;
+        color: #333;
+        font-weight: 700;
+
+    }        font-weight: 700;
+    }
 }   
 .navbar__publicidad{
 
