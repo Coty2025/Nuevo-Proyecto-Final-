@@ -1,11 +1,53 @@
 *¨{
-    color: #0d0d0d;
+    color: #1E1E1E
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
 
-
     margin: unset;
+    padding: unset;
+
+
+    outline: unset;
+    border: unset;
+
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+} 
+   
+a    {  
+    text-decoration: none;
+    color: #1E1E1E;
+}
+ 
+body{ 
+    background-color: #F5F5F5;
+    
+}
+
+.jumbotron1{
+    height: 597px;
+    background-image: url(/assets/ilustration.png);
+    fill: #4D4D4D;
+    margin: unset;
+    padding: unset;
+    outline: unset;
+    border: unset;
+    box-sizing: border-box;
+}   
+.navbar__publicidad{
+
+}
+
+
+
+
+    
+    
+    : unset;
     padding: unset;
 
     outline: unset;
