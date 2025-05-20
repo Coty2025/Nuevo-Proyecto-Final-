@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Reproductor de Audio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nuevo-Proyecto-Final-"
+	}
+}
